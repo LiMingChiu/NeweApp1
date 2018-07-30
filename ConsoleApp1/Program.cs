@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(55555555555);
+            Console.WriteLine(55555555555);
+            Console.WriteLine(55555555555);
         }
     }
 }
